@@ -16,8 +16,8 @@
 
 <div>
   <a href="https://github.com/matheusF23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tuliof210&show_icons=true&theme=monokai&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuliof210&layout=compact&langs_count=8&theme=monokai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusF23&show_icons=true&theme=github&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusF23&layout=compact&langs_count=8&theme=github">
 </div>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
