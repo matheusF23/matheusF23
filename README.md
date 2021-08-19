@@ -16,7 +16,7 @@
 
 <div>
   <a href="https://github.com/matheusF23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusF23&show_icons=true&theme=github&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusF23&show_icons=true&theme=github-dark&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusF23&layout=compact&langs_count=8&theme=github">
 </div>
 
