@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 💻 I'm software developer at [Mundiale](https://www.linkedin.com/company/mundiale/mycompany/)
-- 🙂 I am Co-founder and Administrative and Business Director at [Tertúlia](https://www.linkedin.com/company/tertulia-dev/about/)
 - ⚡ Fun fact: I love riding a bike and play guitar
 
 ### Connect with me:
