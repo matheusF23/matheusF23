@@ -7,7 +7,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Matheus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/matheus-figueiredo-6117b9192/)
-[<img align="left" alt="Matheus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_theus.f/)
 
 <br />
 
