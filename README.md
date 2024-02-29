@@ -1,6 +1,5 @@
 ### Hi there, I'm Matheus Figueiredo 👋
 
-- 🌱 I’m currently learning everything
 - 💻 I'm software developer at [Mundiale](https://www.linkedin.com/company/mundiale/mycompany/)
 - ⚡ Fun fact: I love riding a bike and play guitar
 
